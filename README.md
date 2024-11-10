@@ -3,6 +3,23 @@
 Berikut adalah tentang cara menambahkan meta tag yang benar dan favicon untuk meningkatkan SEO dan pengalaman pengguna di website anda Serta juga Memunculkan Shortcut ketika di bagikan ke aplikasi seperti Whatsapp, Twitter, dan lain lain.
 
 ---
+📚 Table of Contents
+=================
+* [🌐 Socials:](#-socials)
+* [Demo](#demo)
+* [Cara Menambahkan Meta Tag yang Benar dan Favicon pada Website](#cara-menambahkan-meta-tag-yang-benar-dan-favicon-pada-website)
+   * [1. Apa Itu Meta Tag?](#1-apa-itu-meta-tag)
+   * [Jenis Meta Tag yang Penting untuk SEO](#jenis-meta-tag-yang-penting-untuk-seo)
+   * [2. Apa Itu Favicon dan Mengapa Penting?](#2-apa-itu-favicon-dan-mengapa-penting)
+   * [Cara Menambahkan Favicon](#cara-menambahkan-favicon)
+      * [Langkah 1: Siapkan ikon favicon. Ukuran standar favicon adalah 16x16 piksel atau 32x32 piksel. Anda dapat membuat favicon menggunakan aplikasi desain atau menggunakan alat online untuk mengonversi gambar menjadi file favicon (.ico) atau format .png.](#langkah-1-siapkan-ikon-favicon-ukuran-standar-favicon-adalah-16x16-piksel-atau-32x32-piksel-anda-dapat-membuat-favicon-menggunakan-aplikasi-desain-atau-menggunakan-alat-online-untuk-mengonversi-gambar-menjadi-file-favicon-ico-atau-format-png)
+      * [Langkah 2: Upload file favicon ke server atau folder tempat file website Anda disimpan.](#langkah-2-upload-file-favicon-ke-server-atau-folder-tempat-file-website-anda-disimpan)
+      * [Langkah 3: Tambahkan tag  di bagian  HTML Anda, seperti berikut:](#langkah-3-tambahkan-tag--di-bagian--html-anda-seperti-berikut)
+   * [Favicon untuk Perangkat Apple dan Android](#favicon-untuk-perangkat-apple-dan-android)
+   * [3. Kesimpulan](#3-kesimpulan)
+* [Semoga Bermanfaat](#semoga-bermanfaat)
+
+---
 
 ![snake_gif](https://github.com/Galangxyz/Galangxyz/blob/output/github-snake-dark.svg)
 
