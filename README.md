@@ -17,7 +17,16 @@ Berikut adalah tentang cara menambahkan meta tag yang benar dan favicon untuk me
 
 ---
 # Demo 
+
 Shortcut
+> Pada video tersebut melihatkan bahwa dengan meta tag anda bisa membuat shortcut link seperti pada video tersebut
+
+https://github.com/user-attachments/assets/8c7a63d7-7800-4aa4-8a47-1d36f22bb3f3
+
+Favicon
+> Dengan Favicon Website anda akan terlihat Profesional dan Menarik
+
+![IMG_20241111_023009](https://github.com/user-attachments/assets/a35b5e44-0ad6-4916-9c68-97a1cc83df15)
 
 ---
 
