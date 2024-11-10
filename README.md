@@ -1,7 +1,23 @@
 # MetaTag & Favicon
 
-Berikut adalah tentang cara menambahkan meta tag yang benar dan favicon untuk meningkatkan SEO dan pengalaman pengguna di website Anda.
+Berikut adalah tentang cara menambahkan meta tag yang benar dan favicon untuk meningkatkan SEO dan pengalaman pengguna di website anda Serta juga Memunculkan Shortcut ketika di bagikan ke aplikasi seperti Whatsapp, Twitter, dan lain lain.
 
+---
+
+![snake_gif](https://github.com/Galangxyz/Galangxyz/blob/output/github-snake-dark.svg)
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/fathir.bimo.7?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/galngfp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/galang-febriansyah-pratama-17035b32b) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/18iUlLoIs) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@lusaha.s1h?_t=8rFkSFC18Ku&_r=1) 
+
+</h3>
+<p align="left">
+<a href="https://twitter.com/gsap_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gsap_05" height="30" width="40" /></a>
+<a href="/https://feeds.feedburner.com/mataberita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://feeds.feedburner.com/mataberita" height="30" width="40" /></a>
+</p>
+
+---
+# Demo 
+Shortcut
 
 ---
 
@@ -19,37 +35,37 @@ Meta tag adalah elemen HTML yang terletak di bagian <head> sebuah halaman web. M
 
 ## Jenis Meta Tag yang Penting untuk SEO
 
-### Meta Title: Meta title adalah judul halaman yang muncul di hasil pencarian Google. Ini adalah salah satu faktor yang digunakan Google untuk menentukan relevansi halaman dengan kata kunci pencarian.
+Meta Title: Meta title adalah judul halaman yang muncul di hasil pencarian Google. Ini adalah salah satu faktor yang digunakan Google untuk menentukan relevansi halaman dengan kata kunci pencarian.
 ```
 <meta name="title" content="Panduan Lengkap Menambahkan Meta Tag dan Favicon">
 ```
-### Meta Description: Deskripsi meta memberikan gambaran singkat tentang isi halaman dan sering kali ditampilkan di bawah judul halaman pada hasil pencarian. Deskripsi yang menarik dapat meningkatkan tingkat klik (CTR).
+Meta Description: Deskripsi meta memberikan gambaran singkat tentang isi halaman dan sering kali ditampilkan di bawah judul halaman pada hasil pencarian. Deskripsi yang menarik dapat meningkatkan tingkat klik (CTR).
 ```
 <meta name="description" content="Pelajari cara menambahkan meta tag dan favicon yang benar untuk website Anda agar lebih ramah SEO dan meningkatkan pengalaman pengguna.">
 ```
-### Meta Keywords (meskipun tidak digunakan lagi oleh sebagian besar mesin pencari, tetapi masih bisa membantu untuk organisasi konten):
+Meta Keywords (meskipun tidak digunakan lagi oleh sebagian besar mesin pencari, tetapi masih bisa membantu untuk organisasi konten):
 ```
 <meta name="keywords" content="meta tag, favicon, SEO, tutorial, HTML">
 ```
-### Meta Robots: Memberikan instruksi kepada mesin pencari apakah halaman ini harus diindeks atau tidak, dan apakah link di halaman tersebut harus diikuti.
+Meta Robots: Memberikan instruksi kepada mesin pencari apakah halaman ini harus diindeks atau tidak, dan apakah link di halaman tersebut harus diikuti.
 
 ```
 <meta name="robots" content="index, follow">
 ```
 
-### Meta Charset: Menentukan encoding karakter yang digunakan di halaman web. Ini sangat penting untuk memastikan teks ditampilkan dengan benar di semua perangkat.
+Meta Charset: Menentukan encoding karakter yang digunakan di halaman web. Ini sangat penting untuk memastikan teks ditampilkan dengan benar di semua perangkat.
 
 ```
 <meta charset="UTF-8">
 ```
 
-### Viewport Meta Tag: Ini penting untuk responsivitas halaman Anda di perangkat mobile. Tanpa viewport tag, halaman web Anda mungkin tidak tampil dengan baik pada perangkat mobile.
+Viewport Meta Tag: Ini penting untuk responsivitas halaman Anda di perangkat mobile. Tanpa viewport tag, halaman web Anda mungkin tidak tampil dengan baik pada perangkat mobile.
 
 ```
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
 
-### Contoh Kode Meta Tag Lengkap yang saya Pake Seperti Demo Site :
+Contoh Kode Meta Tag Lengkap yang saya Pake Seperti Demo Site :
 
 ```
     <!-- Tempelkan Di bawah head -->
