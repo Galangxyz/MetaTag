@@ -4,6 +4,22 @@ Berikut adalah tentang cara menambahkan meta tag yang benar dan favicon untuk me
 
 ---
 
+📚 Table of Contents
+=================
+
+* [🌐 Socials:](#-socials)
+* [Demo](#demo)
+* [Cara Menambahkan Meta Tag yang Benar dan Favicon pada Website](#cara-menambahkan-meta-tag-yang-benar-dan-favicon-pada-website)
+   * [1. Apa Itu Meta Tag?](#1-apa-itu-meta-tag)
+   * [Jenis Meta Tag yang Penting untuk SEO](#jenis-meta-tag-yang-penting-untuk-seo)
+   * [2. Apa Itu Favicon dan Mengapa Penting?](#2-apa-itu-favicon-dan-mengapa-penting)
+   * [Cara Menambahkan Favicon](#cara-menambahkan-favicon)
+   * [Favicon untuk Perangkat Apple dan Android](#favicon-untuk-perangkat-apple-dan-android)
+   * [3. Kesimpulan](#3-kesimpulan)
+* [Semoga Bermanfaat](#semoga-bermanfaat)
+
+---
+
 ![snake_gif](https://github.com/Galangxyz/Galangxyz/blob/output/github-snake-dark.svg)
 
 ## 🌐 Socials:
